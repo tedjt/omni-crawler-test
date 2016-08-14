@@ -1,0 +1,11 @@
+.vagrant
+*~
+*.pyc
+*.py#
+*DS_Store
+*/build
+*/project.egg-info
+.idea
+.project
+.pydevproject
+env/
