@@ -24,8 +24,7 @@ to help making generating clean item data easier.
 
 1. CrawlSpider documentation
  - http://doc.scrapy.org/en/latest/topics/spiders.html#crawlspider
- - Example using Link extraction. http://doc.scrapy.org/en/latest/topics/spiders
-.html#crawlspider-example
+ - Example using Link extraction. http://doc.scrapy.org/en/latest/topics/spiders.html#crawlspider-example
 2. ItemLoader documentation
  - http://doc.scrapy.org/en/latest/topics/loaders.html
  - ItemLoaders produce an Item after transforming through input and output processors
