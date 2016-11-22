@@ -5,7 +5,7 @@ Set up intro
 2. `cd omni-crawler-test` on the host machine
 2. `./setup.sh` to create, activate and configure a python virtualenv.
  - Read more at http://docs.python-guide.org/en/latest/dev/virtualenvs/.
-3. Run spider with `scrapy runspider lawjobsspider.py`
+3. Run spider with `scrapy runspider salesjobsspider.py`
 
 Your goal for this test is to implement the logic for SimplyLawJobs.
 The spider should navigate to the start_url, paginate through

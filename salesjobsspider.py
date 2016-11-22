@@ -92,8 +92,8 @@ class SimplyLawJobs(CrawlSpider):
     There are some utilities above like "NormalizedJoin" and JobItemLoader
     to help making generating clean item data easier.
     """
-    start_urls = ["http://www.simplylawjobs.com/jobs"]
-    name = 'lawjobsspider'
+    start_urls = ["http://www.simplysalesjobs.co.uk/jobs"]
+    name = 'salesjobsspider'
 
     #----------------#
     #----------------#
